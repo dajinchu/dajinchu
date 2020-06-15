@@ -3,7 +3,3 @@
 <p align="center">
   <a href="https://dajin.dev">Portfolio</a>
 </p>
-
-Here's live footage of me debugging
-
-![](debugging.gif)
