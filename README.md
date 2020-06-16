@@ -6,4 +6,4 @@
 
 Here's live footage of me debugging
 
-![](debugging.gif)
+![](/dajinchu/dajinchu/raw/master/debugging.gif)
