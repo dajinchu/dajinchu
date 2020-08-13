@@ -4,6 +4,9 @@
   <a href="https://dajin.dev">Portfolio</a>
 </p>
 
-Here's live footage of me debugging
-
-![](/dajinchu/dajinchu/raw/master/debugging.gif)
+<details>
+  <summary>Here's live footage of me debugging</summary>
+  
+  
+  ![](/dajinchu/dajinchu/raw/master/debugging.gif)
+</details>
