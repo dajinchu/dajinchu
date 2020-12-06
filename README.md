@@ -8,5 +8,5 @@
   <summary>Here's live footage of me debugging</summary>
   
   
-  ![](/dajinchu/dajinchu/raw/master/debugging.gif)
+  ![](https://raw.githubusercontent.com/dajinchu/dajinchu/master/debugging.gif)
 </details>
